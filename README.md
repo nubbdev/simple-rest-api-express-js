@@ -1,12 +1,14 @@
-# project-pajarappr-api
+# Simple Rest Api with Express JS
 Simple Rest Api with Express JS with MySQL on Node JS
+
 
 Another dependencies included :
 - body-parser
 - dotenv
 
+
 Configuration :
-1. git clone https://github.com/nubbdev/simple-api-express-js.git
+1. git clone https://github.com/nubbdev/simple-rest-api-express-js.git
 2. Create database and run query below
 ```
 CREATE TABLE IF NOT EXISTS `users` (
