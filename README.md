@@ -1,5 +1,5 @@
-# Simple Rest Api with Express JS
-Simple Rest Api with Express JS with MySQL on Node JS
+# Simple Rest API with Express JS
+Simple Rest API with Express JS and MySQL
 
 
 Another dependencies included :
