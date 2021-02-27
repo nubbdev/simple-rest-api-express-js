@@ -23,4 +23,4 @@ CREATE TABLE IF NOT EXISTS `users` (
 ```
 node serve.js
 ```
-Happy coding
+Happy coding ༼ つ ◕_◕ ༽つ
